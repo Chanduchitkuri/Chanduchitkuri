@@ -3,28 +3,23 @@
 <p>
   I am a passionate Web Developer and aspiring Software Engineer with experience in building full-stack applications using Java, React, and SQL. I enjoy creating efficient, scalable solutions and love solving real-world problems through code and technology.
 </p>
----
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
-  - Java  
-  - Python  
-  - C Language  
-  - JavaScript  
-  - HTML5  
-  - CSS3  
-  - React  
-  - MySQL  
-  - PostgreSQL  
-  - MongoDB  
-  - Git  
-  - GitHub  
-  - Visual Studio Code  
-  - Eclipse IDE
-</p>
-
----
+- Java  
+- Python  
+- C Language  
+- JavaScript  
+- HTML5  
+- CSS3  
+- React  
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Git  
+- GitHub  
+- Visual Studio Code  
+- Eclipse IDE
 
 ### 📊 GitHub Stats 
 
@@ -33,7 +28,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanduchitkuri&show_icons=true&locale=en" alt="chanduchitkuri" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanduchitkuri&" alt="chanduchitkuri" />
 </p>
----
 
 ### 🏆 Certifications
 
