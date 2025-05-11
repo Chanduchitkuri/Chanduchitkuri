@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋, I'm Chandu Chitkuri</h1>
-<h3 align="cente">👨‍💻 About Me</h3>
-<p align="cente">
+<h3>👨‍💻 About Me</h3>
+<p>
   I am a passionate Web Developer and aspiring Software Engineer with experience in building full-stack applications using Java, React, and SQL. I enjoy creating efficient, scalable solutions and love solving real-world problems through code and technology.
 </p>
 ---
